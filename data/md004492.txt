@@ -1,6 +1,6 @@
 
                   
-                     new-york.—Some remarkable things are being done in the International Business Machines research center south of Poughkeepsie, N.Y., but one scientist in particular is delighted because he has taught a machine to play checkers. And the machine is winning, improving its score with each game.
+                     newyork.—Some remarkable things are being done in the International Business Machines research center south of Poughkeepsie, N.Y., but one scientist in particular is delighted because he has taught a machine to play checkers. And the machine is winning, improving its score with each game.
 The scientist is Dr. Arthur L. Samuel, and he is pleased because the machine is "learning," whereas other machines have been taught to play checkers and chess with never showing signs of improvement.
 So Dr. Samuel believes that his computer has developed an ability which could have a profound meaning in the field called "generalization learning." This might be applied in industry and in the solution of real social and economic problems. It would mean that much of the running of a business could be turned over to computers instead of using human minds on the problems involved.
 A type of rote learning requires a machine to remember all past positions, such as board positions in checkers, and the outcome of each. But in generalization learning, the machine forgets specific things but constantly revises the list of factors it uses to analyze each board situation.
